@@ -1,6 +1,5 @@
 *{
   box-sizing: border-box;
-  margin: 0;
   padding: 0;
 }
 
@@ -15,4 +14,38 @@ h1{
   text-align: center;
   background: url(../img/pattern.jpeg);
   background-size: cover;
+  margin: 20px 0;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  margin: 20px 0;
+}
+
+#brushes{
+  background-color: mediumspringgreen;
+}
+
+
+#art_frames{
+  background-color: lightcoral;
+}
+
+#paint{
+  background-color: skyblue;
+}
+
+h3{
+  margin: 20px 0;
+}
+
+.prices{
+  font-weight: bold;
+  color: blue;
+}
+
+/**.content img{
+  margin: 20px 0;
+} **/
